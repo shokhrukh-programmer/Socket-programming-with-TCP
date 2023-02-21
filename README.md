@@ -1,3 +1,3 @@
-# TCP
+# Socket programming with TCP
 
-Implementing simple TCP Socket programming 
+Implementing simple TCP connection for transfering messages
